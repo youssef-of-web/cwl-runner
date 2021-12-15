@@ -1,0 +1,4 @@
+tarfile:
+  class: File
+  path: requirements.tar
+extractfile: requirements.txt

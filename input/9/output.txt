@@ -1,0 +1,4 @@
+HOME=/tmp/gdh19vf3
+TMPDIR=/tmp/ma2u1z1n
+PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+HELLO=hello

@@ -1,0 +1,6 @@
+example_flag: true
+example_int: 5
+example_string: "youssef"
+example_file: 
+  class: File
+  path: file.txt
